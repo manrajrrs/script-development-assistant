@@ -68,4 +68,3 @@ def chat():
 # Run the chat function if this script is exectued directly 
 if __name__ == "__main__":
     chat()
-        

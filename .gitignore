@@ -175,5 +175,4 @@ cython_debug/
 
 # PDF file:
 Screenwriting_for_Dummies.pdf
-
-
+.DS_Store
